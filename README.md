@@ -22,6 +22,3 @@ This project simulates a smart traffic light system using **Arduino Uno (ATmega3
 ## Microcontroller
 - **Manufacturer:** Microchip Technology Inc.
 - **Model:** ATmega328P (Arduino Uno R3)
-
----
-*Developed and simulated for educational purposes.*
