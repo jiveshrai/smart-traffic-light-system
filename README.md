@@ -17,7 +17,7 @@ This project simulates a smart traffic light system using **Arduino Uno (ATmega3
 6. Press pushbuttons in the emulator to simulate vehicle detection.
 
 ## Demo
-![screenshot](docs/demo.png)
+<img width="1152" height="780" alt="image" src="https://github.com/user-attachments/assets/e845ab83-099c-482f-9ff4-36e7b3d6cbe4" />
 
 ## Microcontroller
 - **Manufacturer:** Microchip Technology Inc.
