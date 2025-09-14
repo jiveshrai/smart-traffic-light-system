@@ -11,7 +11,7 @@ This project simulates a smart traffic light system using **Arduino Uno (ATmega3
 ## How to Run
 1. Open [Wokwi](https://wokwi.com/projects/new/arduino-uno).
 2. Copy `sketch.ino` code into `sketch.ino`.
-3. Copy `wokwi-project.json` into a file named `wokwi-project.json`.
+3. Copy `diagram.json` into a file with .json extension.
 4. Click **Start Simulation**.
 5. Open the **Serial Monitor** to view logs.
 6. Press pushbuttons in the emulator to simulate vehicle detection.
